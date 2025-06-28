@@ -1,4 +1,5 @@
 [Demo Link](https://drive.google.com/file/d/1mdykXxwXzWL_1nRKlKjuHpRcew7UgnF0/view?usp=drivesdk)
+[Code](https://github.com/johndilipkumar2004/cleantech_project.git)
 # cleantech_projet
 import streamlit as st
 import tensorflow as tf
